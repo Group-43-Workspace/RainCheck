@@ -1,5 +1,3 @@
-# group_43_work
-
 ## RainCheck
 
 ### App Description
