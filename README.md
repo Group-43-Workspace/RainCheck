@@ -1,6 +1,11 @@
 # group_43_work
-### RainCheck
+
+## RainCheck
+
+### App Description
 - **Description:** Compares weather forecast from different weather forecast agencies.
+
+### App Idea Evaluation
 - **Category:** Informational
 - **Mobile:** Mobile first experience
 - **Story:** Allows user to look at multiple forecasts to create a more accurate estimation of weather for the day or week.
