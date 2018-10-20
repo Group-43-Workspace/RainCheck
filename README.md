@@ -1,5 +1,5 @@
 # group_43_work
-### Weather Comparison
+### RainCheck
 - **Description:** Compares weather forecast from different weather forecast agencies.
 - **Category:** Informational
 - **Mobile:** Mobile first experience
