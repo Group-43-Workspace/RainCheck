@@ -24,3 +24,61 @@
 
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
+
+
+### Product Specification Design: RainCheck
+
+#### 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+ * User needs to provide location
+ * User can set preferences for viewing weather
+ * User can see if an umbrella is needed or not
+ * User can view an hourly/daily/weekly forecast
+ * User can search/change location
+
+**Optional Nice-to-have Stories**
+
+ * User can change background to day mode or night mode
+ * Daily notifications of weather forecasts
+ * Major local weather alerts
+ * User can view the weather map of a location
+
+#### 2. Screen Archetypes
+
+ * Stream
+    * Default stream allows user to view their location and nearby cities
+    * Can be edited to view popular locations or frequently traveled locations
+ * Creation
+    * Allows a user to input lists of locations to view on the Stream 
+ * Detail
+    * Information such as Temperature, Windspeed, Humidity, % chance of precipitation, UV Forecast, Pressure, Visibility, Air Quality Index
+
+ * Map View
+     * Allows the user to view visualization of weather forecast in location map
+ * Settings
+    * Allows user to receive notifications sent to their phone 
+    * Allows user to set units as imperial/metric
+
+#### 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Home (Local Weather)
+ * Forecast (24-hour/Weekly)
+ * Search Location
+ * Settings
+
+**Flow Navigation** (Screen to Screen)
+
+ * Stream Screen
+     * Detail Screen
+ * Creation Screen
+     * Stream Screen
+ * Detail Screen
+     * Map View
+ * Settings Screen
+     * None
+ * Map View
+     * None
