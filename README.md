@@ -18,9 +18,10 @@
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+<img src="https://i.imgur.com/3hgOmp1.gif" width=200><br>
 
----
+![](https://i.imgur.com/mB1IeJC.png)
+
 
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
