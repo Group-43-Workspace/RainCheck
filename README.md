@@ -1,4 +1,4 @@
-## RainCheck
+### Product Specification Design: RainCheck
 
 ### App Description
 - **Description:** Compares weather forecast from different weather forecast agencies.
@@ -12,24 +12,7 @@
 - **Scope:** Provides comparisons of temperature and weather condition.
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
-
----
-
-### Wireframes
-<img src="https://i.imgur.com/3hgOmp1.gif" width=200><br>
-
-![](https://i.imgur.com/mB1IeJC.png)
-
-
-### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
-
-
-### Product Specification Design: RainCheck
-
-#### 1. User Stories (Required and Optional)
+1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
 
@@ -83,3 +66,13 @@
      * None
  * Map View
      * None
+
+
+### Wireframes
+<img src="https://i.imgur.com/3hgOmp1.gif" width=200><br>
+
+![](https://i.imgur.com/mB1IeJC.png)
+
+
+### App Pitch Presentation
+https://docs.google.com/presentation/d/1z7_5g6QHN3NG2Bl4BNAWPzi8yWQDLdfaBj2UhTozpSw/edit?usp=sharing
